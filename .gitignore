@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+results/*_quick.csv
+results/*.log
+.DS_Store

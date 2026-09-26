@@ -1,0 +1,9 @@
+stim>=1.14
+pymatching>=2.2
+sinter>=1.14
+numpy
+scipy
+matplotlib
+pytest
+# Union-find decoder (Rust; building it needs a Rust toolchain: https://rustup.rs)
+union-find-decoder @ git+https://github.com/vivekg1704/union_find_decoder
